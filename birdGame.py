@@ -1,5 +1,4 @@
 """
- Machine Learning Flappy Bird by Connor McLaughlan (10/23/19)
     -Learns using genetic algorithms.
 """
 
